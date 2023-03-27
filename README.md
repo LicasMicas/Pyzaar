@@ -7,6 +7,7 @@ Assuming you already have python and git and they're installed to path and that 
 ```
 git clone https://github.com/LicasMicas/Pyzaar
 ```
+```
 python -m venv .venv
 .venv/Script/activate.ps1
 pip install -r install.txt
